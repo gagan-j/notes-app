@@ -2,6 +2,8 @@
 
 A modern Notes application built with **React**, **Vite**, and **Tailwind CSS**, featuring responsive UI, efficient state management, and smooth navigation.
 
+🔗 **Live Demo:** [https://notes-app-sand-psi.vercel.app](https://notes-app-sand-psi.vercel.app)
+
 ---
 
 ## Key Features
